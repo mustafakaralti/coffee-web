@@ -1,4 +1,4 @@
-# coffee-web
+# Coffee-Web
 
 Bu proje, Html ve Css kullanılarak geliştirilen responsive bir yazılım sitesi tasarımını içermektedir.
 
