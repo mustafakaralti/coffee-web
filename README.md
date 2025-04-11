@@ -10,4 +10,4 @@ Bu proje, Html ve Css kullanılarak geliştirilen responsive bir yazılım sites
 .Kolay Kullanım: Açık ve anlaşılır yapısıyla düzenlemeye uygun.
 
 # Ekran Görüntüsü
-![coffee](https://github.com/user-attachments/assets/8cdb5d48-a669-446c-bf09-2562394e112c)
+![ezgif com-crop-2](https://github.com/user-attachments/assets/b55999c5-6e0f-46c3-9651-700dafbfcd84)
